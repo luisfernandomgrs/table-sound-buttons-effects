@@ -5,7 +5,8 @@
   https://www.youtube.com/watch?v=XGok4UIqu8E&list=RDCMUCbwXnUipZsLfUckBPsC7Jog&index=18
 </code>
 
-<h2>Como ficará nosso projeto; Logo abaixo está disponível um link para visualizar este projeto em execução</h2>
+<h2>Como ficará nosso projeto</h2>
+<p>Logo abaixo está disponível um link para visualizar este projeto em execução</p>
 
 ![image](https://user-images.githubusercontent.com/72364037/107083290-2a93f780-67d4-11eb-97ca-d9e0aee57c65.png)
 
